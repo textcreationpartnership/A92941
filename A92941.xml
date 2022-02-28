@@ -1,0 +1,182 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Searious warning for all separated churches and church-members, against back-sliders. And a seasonable caveat to all their followers.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1652</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A92941</idno>
+            <idno type="STC">Wing S2621</idno>
+            <idno type="STC">Thomason E684_3</idno>
+            <idno type="STC">ESTC R207041</idno>
+            <idno type="EEBO-CITATION">99866117</idno>
+            <idno type="PROQUEST">99866117</idno>
+            <idno type="VID">118381</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A92941)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 118381)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 105:E684[3])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Searious warning for all separated churches and church-members, against back-sliders. And a seasonable caveat to all their followers.</title>
+               </titleStmt>
+               <extent>[2], 5, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Robert Ibbitson dwelling in Smithfield, neer Hosier Lane,</publisher>
+                  <pubPlace>London. :</pubPlace>
+                  <date>1653. [i.e. 1652]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Thomason received his copy 22 December 1652.</note>
+                  <note>Annotations on Thomason copy: "Decemb. 22. 1652"; the '3' in the imprint has been crossed out.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Chrisitian life --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Kayla Ondracek</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Kayla Ondracek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:118381:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 7 -->
+            <p>A Searious Warning FOR ALL Separated Churches AND CHURCH-MEMBERS, <hi>Againſt Back-ſliders.</hi> AND A Seaſonable <hi>CAVEAT</hi> to all their FOLLOWERS.</p>
+            <q>
+               <bibl>
+                  <hi>JEREM. 15.19.</hi>
+               </bibl>
+               <p>If thou take forth the precious from the vile, thou ſhalt bee as my mouth: Let them returne unto thee, but returne not thou unto them.</p>
+            </q>
+            <p>LONDON. Printed for ROBERT IBBITSON dwelling in Smithfield, neer Hoſier Lane. 1653.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:118381:2"/>
+            <!-- PDF PAGE 8 -->
+            <pb n="1" facs="tcp:118381:2"/>
+            <!-- PDF PAGE 8 -->
+            <head>A Searious Warning for all Separated Churches and Church-members, <hi>Againſt Back-ſliders.</hi>
+            </head>
+            <div type="warnings">
+               <p>
+                  <hi>Six Warnings for Converſation.</hi>
+               </p>
+               <p n="1">I. <hi>
+                     <seg rend="decorInit">N</seg>Ot to refuſe that Chriſt you profeſſe, nor any word of the Lord; Remember what the Apoſtle ſaith of them,</hi> Heb. 12.22. to 26. Yee are come unto Mount Sion, and unto the City of the living God, the heavenly Jeruſalem, and to an innumerable company of Angels. To the gene<g ref="char:EOLhyphen"/>rall Aſſembly, and Church of the firſt borne, which are written in heaven, and to God the Judge of all, and to the Spirits of juſt men made perfect, and to Jeſus the Mediator of the new Covenant, and to the blood of ſprinkling, that ſpeaketh better things then that of <hi>Abel.</hi> See that ye refuſe not him that ſpeaketh, for if they eſcaped not who refuſed him that ſpake on earth, much more ſhall
+<pb facs="tcp:118381:3"/>
+                  <!-- PDF PAGE 9 -->
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="1" facs="tcp:118381:3"/>
+                  <!-- PDF PAGE 9 -->
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="2" facs="tcp:118381:4"/>
+                  <!-- PDF PAGE 10 -->not we eſcape if wee turne away from him that ſpeaketh from heaven.</p>
+               <p n="2">II. <hi>Not to oppoſe and ſeek to throw down the Au<g ref="char:EOLhyphen"/>thority of the Paſtors, Teachers or Elders that are ſet over you, by free election, nor flye above Ordinances, nor wil<g ref="char:EOLhyphen"/>fully refuſe to be taught; for the Apoſtle ſaith,</hi> Heb. 13.7.8. Remember them which have the rule over you, who have ſpoken unto you the word of God, whoſe faith follow, conſidering the end of their converſation. Jeſus Chriſt the ſame yeſterday, and to day, and for ever.</p>
+               <p n="3">III. <hi>Not to refuſe to heare reproof for ſinne, nor upon pretence of a profeſsion of God, heap up wickedneſſe in your converſation; of ſuch the Lord complains,</hi> Amos 2.11, 12, 13. I raiſed up of your ſonnes for Prophets, and of your young men for Nazarites: Is it not even thus, O ye children of Iſrael! But ye gave the Nazarites wine to drinke, and commanded the Prophets, ſaying, Propheſie not, behold I am preſ<g ref="char:EOLhyphen"/>ſed under you, as a cart is preſſed that is full of ſheaves.</p>
+               <p n="4">IV. <hi>Not to ſeem to be holy with the Saints, and com<g ref="char:EOLhyphen"/>ply with wicked-men in their ungodlineſſe, when you are in their company. As it is ſaid of</hi> Jehoaſh, <hi>whilſt he was with</hi> Jehoiada, 2 <hi>King.</hi> 12.2. Jehoaſh did that which was right in the ſight of the Lord all his dayes, wherein Jehoiada the Prieſt inſtructed him. <hi>But after<g ref="char:EOLhyphen"/>wards when</hi> Jehoiada <hi>was dead, and he fell into other company;</hi> It is ſaid 2 Chron. 24.17. to 23. Now after the death of Jehoiada, came the Princes of Judah and made obeyſance to the King; then the King hearkned unto them. And they left the houſe
+<pb n="3" facs="tcp:118381:4"/>
+                  <!-- PDF PAGE 10 -->of the Lord God of their fathers, and ſerved Groves and Idols; and wrath came upon Judah and Jeruſalem for this their treſpaſſe. Yet he ſent Pro<g ref="char:EOLhyphen"/>phets to them, to bring them againe unto the Lord, and they teſtified againſt them; but they would not give eare. And the Spirit of God came upon Zecheriah the ſonne of Jehoiada the Prieſt, which ſtood above the people, and ſaid unto them; Thus ſaith God, Why tranſgreſſe yee the Com<g ref="char:EOLhyphen"/>mandements of the Lord, that yee cannot proſper? becauſe ye have forſaken the Lord, he hath alſo for<g ref="char:EOLhyphen"/>ſaken you. And they conſpired againſt him, &amp; ſtoned him with ſtones, at the Commandement of the King in the Court of the houſe of the Lord. Thus Joaſh the King remembred not the kindneſſe which Jehoiada his father had done to him, but ſlew his ſon; and when he dyed, he ſaid, The Lord look up<g ref="char:EOLhyphen"/>on it, and require it.</p>
+               <p n="5">V. <hi>Not to pin your faith and Religion upon the ſenſe of Magiſtrates and Rulers, and rely more upon their choice then the Scriptures, as the Phariſees who when ſome of their Officers ſaid of Chriſt,</hi> Joh. 7.46. Never man ſpake like this man. <hi>It is ſaid,</hi> verſe 47. Then an<g ref="char:EOLhyphen"/>ſwered them the Phariſees, Are ye alſo deceived?</p>
+               <p n="6">VI. <hi>Not to forſake Chriſt and his wayes to avoid croſſes and ſufferings contrary to what the Apoſtle</hi> Paul <hi>teacheth</hi> Philip. 1.28, 29. And in nothing terrified by your adverſaries, which is to them an evident token of perdition; but to you of ſalvation, and that of God. For unto you it is given in the be<g ref="char:EOLhyphen"/>halfe of Chriſt, not onely to beleeve on him, but alſo to ſuffer for his ſake.</p>
+            </div>
+            <div type="warnings">
+               <pb n="4" facs="tcp:118381:5"/>
+               <!-- PDF PAGE 11 -->
+               <head>Six Warnings againſt Back-ſlidings.</head>
+               <p n="1">I. <hi>NOt to trouble thoſe that fear God, by defiling ma<g ref="char:EOLhyphen"/>ny holy people, out of a bitterneſſe of ſpirit, by rai<g ref="char:EOLhyphen"/>ſing falſe, and ſcandalous aſperſions againſt them; of ſuch the Apoſtle gives us warning to take heed of,</hi> Heb. 12.15. Looking diligently leſt any man faile of the grace of God, leſt any root of bitterneſſe, ſpringing up, trouble you, and thereby many be defiled.</p>
+               <p n="2">II. <hi>Not for profit, favour, or any worldly thing, or ſi<g ref="char:EOLhyphen"/>niſt erreſpect, to forſake your intereſt in the Saints fel<g ref="char:EOLhyphen"/>lowſhip; Therefore the Apoſtle bids us alſo to look dili<g ref="char:EOLhyphen"/>gently,</hi> Heb. 12.16, 17. Leſt there be any fornicator or prophane perſon as Eſau, who for one morſel of meat ſold his birth-right, <hi>&amp;c.</hi>
+               </p>
+               <p n="3">III. <hi>Not privately to ſeduce fooliſh women, of evill reviling ſpirits, to oppoſe Church-officers, and Church-order, and to back, and encourage them in evill practiſes which the Apoſtle warns of, ſaying,</hi> 2 Tim. 3.5. verſe, to 10. Having a forme of godlineſſe, but denying the power thereof, from ſuch turne away. For of this ſort are they which creep into houſes, and lead captive ſilly women laden with ſins, led away with divers luſts, Ever learning and never able to come to the knowledge of the truth. Now as Jannes and Jambres withſtood Moſes; ſo do theſe alſo re<g ref="char:EOLhyphen"/>ſiſt the truth; men of corrupt minds, reprobate concerning the faith. But they ſhall proceed no further, for their folly ſhall be manifeſt unto all men as theirs alſo was.</p>
+               <pb n="5" facs="tcp:118381:5"/>
+               <!-- PDF PAGE 11 -->
+               <p>
+                  <hi>Yet when ſuch Seducers are reproved for this evill they commonly wax worſe and worſe.</hi> ver. 13. But evill men and ſeducers ſhall wax worſe and worſe, deceiving and being deceived.</p>
+               <p n="4">4 <hi>Not to revile your Teachers, and abuſe them when they admoniſh you for your ſinnes,</hi> 2 Tim. 4.14. to 19. <hi>Alexander</hi> the Copperſmith did me much evill, the Lord reward him according to his workes. Of whom bee thou aware alſo, for hee hath greatly withſtood our words. At my firſt anſwer no man ſtood with me, but all men forſooke me: I pray God, that it may not be laid to their charge. Not<g ref="char:EOLhyphen"/>withſtanding, the Lord ſtood with me and ſtreng<g ref="char:EOLhyphen"/>thened me, that by me the preaching might be ful<g ref="char:EOLhyphen"/>ly known, and that all the Gentiles might heare: and I was delivered out of the mouth of the lion. And the Lord ſhall deliver mee from every evill worke, and will preſerve mee unto his heavenly kingdom: to whom be glory for ever. Amen. <hi>Com<g ref="char:EOLhyphen"/>pared with</hi> 1 <hi>Tim.</hi> 1.19, 20. Holding faith and a good conſcience, which ſome having put away concerning faith have made ſhipwrack. Of whom is <hi>Hime<g ref="char:EOLhyphen"/>neus</hi> and <hi>Alexander,</hi> whom I have delivered unto Satan, that they may learn not to blaſpheme.</p>
+               <p n="5">5 <hi>Not willfully to forſake your aſſemblings with your fellow-members, where you have given up your names to walke in fellowſhip, concerning which the Apoſtle gives a notable warning, Heb.</hi> 10. <hi>from</hi> 25. <hi>to</hi> 30. Not for<g ref="char:EOLhyphen"/>ſaking the aſſembling of your ſelves together, as the manner of ſome is: but exhorting one another and ſo much the more as yee ſee the day approach<g ref="char:EOLhyphen"/>ing. For if wee ſin wilfully after that wee have re<g ref="char:EOLhyphen"/>ceived
+<pb facs="tcp:118381:6"/>
+                  <!-- PDF PAGE 12 -->the knowledge of the truth, there remaineth no more ſacrifice for ſins, But a certain fearful look<g ref="char:EOLhyphen"/>ing for of judgement, and fiery indignation, which ſhal devoure the adverſaries. He that deſpiſed <hi>Moſes</hi> law dyed without mercy under two or three wit<g ref="char:EOLhyphen"/>neſſes. Of how much ſorer puniſhment ſuppoſe ye ſhal he be thought worthy, who hath troden under foot the Son of God, and hath counted the blood of the covenant wherewith he was ſanctified, an un<g ref="char:EOLhyphen"/>holy thing, and hath done diſpite unto the ſpirit of grace.</p>
+               <p n="6">6 <hi>Not to take part with wicked people in their perni<g ref="char:EOLhyphen"/>cious wayes, againſt God and his people, and if you have failed herein, not to perſiſt, but to repent, Rev.</hi> 2.20, 21, 22. Notwithſtanding, I have a few things againſt thee, becauſe thou ſuffereſt that woman <hi>Jezabel,</hi> which calleth her ſelfe a propheteſſe, to teach and to ſe<g ref="char:EOLhyphen"/>duce my ſervants, to commit fornication and to eate things ſacrificed unto Idolls. And I gave her ſpace to repent of her fornication, and ſhe repented not. Behold, I wil caſt her into a bed, &amp; them that com<g ref="char:EOLhyphen"/>mit adultery with her, into great tribulation, except they repent of their deeds.</p>
+               <p>2 <hi>Theſſ.</hi> 3.1, 2, 3, 4, 5, 6. Finally brethren, pray for us, that the word of the Lord may have free courſe, and be glorified, even as it is with you: And that we may be delivered from un<g ref="char:EOLhyphen"/>reaſonable and wicked men: for all men have not faith. But the Lord is faithfull who ſhall ſtabliſh you, and keepe you from evill. And we have confidence in the Lord touching you, that ye both do and wil do the things which we command you. And the Lord direct your hearts into the love of God, and into the patient waiting for Chriſt. Now we command you, brethren, in the name of our Lord Jeſus Chriſt, that yee withdraw your ſelves from every brother that walketh diſorderly, and not after the tradition which yee received of us.</p>
+               <trailer>FINIS.</trailer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
